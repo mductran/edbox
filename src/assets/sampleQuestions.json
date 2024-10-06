@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "grade": 15
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "grade": 20
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "grade": 25
+  }
+]
